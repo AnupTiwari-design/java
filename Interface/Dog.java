@@ -1,6 +1,6 @@
 package Interface;
 
-public class Dog {
+public class Dog implements Animal {
     public void eat() {
         System.out.println("Dog is eating");
     }
