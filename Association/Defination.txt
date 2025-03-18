@@ -1,0 +1,4 @@
+
+	•	Definition: A general relationship between two classes.
+	•	Example: A Student and a Library are associated because students use the library.
+	•	Implementation: One class has a reference to another.
