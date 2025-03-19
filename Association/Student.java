@@ -7,6 +7,7 @@ String studentName;
     }
 
     void studiesIn(Library library) {
-        System.out.println(studentName + " studies in " + library.name + " Library.");
+        System.out.println(studentName + " studies in " + 
+        library.name + " Library.");
     }
 }
